@@ -2,17 +2,6 @@
 
 Praktikum regresi untuk pemula dengan Python 3.10+. Dataset 500 rumah bersifat sintetis dan tidak mewakili harga pasar aktual.
 
-## Penggunaan
-
-Jalankan perintah berikut dari folder proyek:
-
-```bash
-pip install -r requirements.txt
-python 00_generate_dataset.py
-jupyter notebook
-```
-
-Buka `supervised_learning_regression.ipynb` dari folder proyek dan jalankan sel dari atas ke bawah. Semua output sudah tersimpan di notebook.
 
 ## Isi
 
